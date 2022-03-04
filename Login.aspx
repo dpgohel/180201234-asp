@@ -31,7 +31,7 @@
                     <asp:TextBox ID="TextBox1" runat="server" class="ggg" placeholder="E-MAIL"></asp:TextBox>
                     <asp:TextBox ID="TextBox2" runat="server" class="ggg" placeholder="PASSWORD" TextMode="Password"></asp:TextBox>
 			        <span><input type="checkbox" />Remember Me</span>
-			        <h6><a href="#">Forgot Password?</a></h6>
+			        <h6><a href="#">Forgothjnghjkljfl;jhl;j Password?</a></h6>
 				        <div class="clearfix"></div>
                         <asp:Literal ID="Literal1" runat="server"></asp:Literal>
                         <asp:Button ID="Button1" runat="server" Text="Sign In" 
